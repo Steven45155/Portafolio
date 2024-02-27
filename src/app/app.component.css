@@ -140,7 +140,8 @@ background-color: rgba(117, 7, 241, 0.2);
 }
 
 .sobre-mi{
-  background-color: rgba(117, 7, 241, 1);
+  background-color: rgba(117, 7, 241, 0.5);
+  backdrop-filter: blur(10px);
   height: auto;
   border-radius: 5%;
   margin: 0% 4%;
