@@ -135,13 +135,13 @@ background-color: rgba(117, 7, 241, 0.2);
 }
 
 .sobre{
-  height: 100vh;
+  height: auto;
   padding: 50px;
 }
 
 .sobre-mi{
   background-color: rgba(117, 7, 241, 1);
-  height: 100%;
+  height: auto;
   border-radius: 5%;
   margin: 0% 4%;
   color: white;
